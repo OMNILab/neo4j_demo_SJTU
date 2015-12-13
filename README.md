@@ -2,7 +2,7 @@
 这是一个利用neo4j将交大打组织架构进行可视化展示的demo代码。
 
 爬取的数据均来自交大官网：
-###概况机构设置
+###机关部处
 http://www.sjtu.edu.cn/xbdh/yjdh/gk/jgsz/jgbc.htm
 ###学院（系）和研究院
 http://www.sjtu.edu.cn/xbdh/yjdh/yx/xy_x_.htm
